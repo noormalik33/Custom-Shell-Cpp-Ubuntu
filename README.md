@@ -149,3 +149,13 @@ LinkedIn: https://www.linkedin.com/in/noormalik56500/ 🔗
 
 Acknowledgments 🙏🎉
 This shell was developed to demonstrate operating system concepts, inspired by Unix shell principles and POSIX system calls. Thank you to the open-source community for inspiration and resources! 🌍
+
+## 👩‍💻 Author
+
+**Noor Malik**  
+IT Student  
+📍 Islamabad, Pakistan  
+📧 Email: noormalik56500@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500/)
+
+
